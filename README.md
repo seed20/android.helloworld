@@ -1,2 +1,2 @@
-android.helloworld
+seed20/android.helloworld
 ==================
